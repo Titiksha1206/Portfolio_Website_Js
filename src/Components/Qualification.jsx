@@ -98,7 +98,7 @@ const Qualification = () => {
                     Percentage : 90.2%
                   </div>
                   <div className="qualification__calender">
-                    <i class="uil uil-calendar-alt">2018 - 2019</i>
+                    <i class="uil uil-calendar-alt"></i> 2018 - 2019
                   </div>
                 </div>
 
@@ -162,8 +162,8 @@ const Qualification = () => {
             </div>
           </div>
         </div>
+        <div className="separator"></div>
       </section>
-      <div className="separator"></div>
     </>
   );
 };
