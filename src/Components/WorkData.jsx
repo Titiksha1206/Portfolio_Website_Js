@@ -4,8 +4,15 @@ import Work3 from "../assets/assets/recipe book.jpg";
 import Work4 from "../assets/assets/pomodoro timer.jpg";
 import Work5 from "../assets/assets/work1.jpg";
 import Work6 from "../assets/assets/image search.jpg";
+import Work7 from "../assets/assets/work3.jpg";
 
 export const projectsData = [
+  {
+    id: 7,
+    image: Work7,
+    title: "Summarizer",
+    href: "https://any-url-summarizer.netlify.app/",
+  },
   {
     id: 1,
     image: Work1,
