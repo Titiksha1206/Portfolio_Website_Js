@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio_Website_Js/static/css/main.adaba31c.css",
-    "main.js": "/Portfolio_Website_Js/static/js/main.5e0ae77c.js",
+    "main.js": "/Portfolio_Website_Js/static/js/main.e2566b0d.js",
     "static/js/787.ced97632.chunk.js": "/Portfolio_Website_Js/static/js/787.ced97632.chunk.js",
     "static/media/javascript.jpg": "/Portfolio_Website_Js/static/media/javascript.1edf10528b9ed6f192d3.jpg",
     "static/media/react.jpg": "/Portfolio_Website_Js/static/media/react.e0021bc1085741f625f7.jpg",
     "static/media/java.jpg": "/Portfolio_Website_Js/static/media/java.100078201c3b56a3ed09.jpg",
     "static/media/network_page-0001.jpg": "/Portfolio_Website_Js/static/media/network_page-0001.5f139673821fac248450.jpg",
     "static/media/ai.jpg": "/Portfolio_Website_Js/static/media/ai.01947b088b8f2bea5299.jpg",
+    "static/media/container.jpg": "/Portfolio_Website_Js/static/media/container.919f2e3baa798cd34321.jpg",
     "static/media/software certificate_page-0001.jpg": "/Portfolio_Website_Js/static/media/software certificate_page-0001.96e3f1bc0c8abcb4a3b8.jpg",
     "static/media/cloud.jpg": "/Portfolio_Website_Js/static/media/cloud.6804e2209f5175d9c4bc.jpg",
     "static/media/HTML.jpg": "/Portfolio_Website_Js/static/media/HTML.d2557abaa8142d3dd0fa.jpg",
@@ -18,14 +19,15 @@
     "static/media/image search.jpg": "/Portfolio_Website_Js/static/media/image search.72bc0e8415f59c1ca3ea.jpg",
     "static/media/weather.jpg": "/Portfolio_Website_Js/static/media/weather.ebca3d5d3e21d4ef401a.jpg",
     "static/media/work1.jpg": "/Portfolio_Website_Js/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/Portfolio_Website_Js/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/pomodoro timer.jpg": "/Portfolio_Website_Js/static/media/pomodoro timer.4dcd1f5d111f00258f69.jpg",
     "index.html": "/Portfolio_Website_Js/index.html",
     "main.adaba31c.css.map": "/Portfolio_Website_Js/static/css/main.adaba31c.css.map",
-    "main.5e0ae77c.js.map": "/Portfolio_Website_Js/static/js/main.5e0ae77c.js.map",
+    "main.e2566b0d.js.map": "/Portfolio_Website_Js/static/js/main.e2566b0d.js.map",
     "787.ced97632.chunk.js.map": "/Portfolio_Website_Js/static/js/787.ced97632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adaba31c.css",
-    "static/js/main.5e0ae77c.js"
+    "static/js/main.e2566b0d.js"
   ]
 }
