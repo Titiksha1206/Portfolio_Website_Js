@@ -1,6 +1,8 @@
 import React from "react";
 import "./About.css";
 import Info from "./Info";
+import resume from "../assets/assets/Titiksha Gupta Resume.pdf";
+import PDFDownloadButton from "./PDFDownloadButton";
 
 const About = () => {
   return (
@@ -36,6 +38,8 @@ const About = () => {
               continuously pushing boundaries, and striving to make meaningful
               contributions to the dynamic digital landscape.
             </p>
+
+            <PDFDownloadButton pdfUrl={resume} />
           </div>
         </div>
         <div className="separator"></div>
