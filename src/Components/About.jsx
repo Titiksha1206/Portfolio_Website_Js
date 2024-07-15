@@ -15,12 +15,12 @@ const About = () => {
           <div className="about__data">
             <Info />
             <p className="about__description">
-              Sophisticated yet versatile, I'm a Front-End Web Developer on a
-              mission to craft immersive digital experiences. With a blend of
-              creative flair and technical acumen, I'm dedicated to merging
-              aesthetics with professionalism in every digital creation. I
-              strive for excellence, delivering refined web experiences that
-              seamlessly blend style and functionality.
+              Sophisticated yet versatile, I'm a Software Developer on a mission
+              to craft immersive digital experiences. With a blend of creative
+              flair and technical acumen, I'm dedicated to merging aesthetics
+              with professionalism. I strive for excellence, delivering refined
+              web experiences that seamlessly blend style and functionality and
+              leave a lasting impression.
             </p>
             <p className="about__description">
               When I'm not immersed in lines of code, you'll find me seeking

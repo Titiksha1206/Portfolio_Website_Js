@@ -56,12 +56,14 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Front End Web Developer</h3>
+      <h3 className="home__subtitle">Software Developer</h3>
       <p className="home__description">
-        Skilled in HTML, CSS, and JavaScript, dedicated to merging aesthetics
-        with seamless functionality to deliver captivating and responsive
-        websites that elevate user experiences to new heights and leave a
-        lasting impression.
+        Skilled in designing, developing, and deploying robust software
+        solutions. Strong problem-solving abilities with a keen eye for detail.
+        Adept at working in agile environments and collaborating with
+        cross-functional teams.
+        {/* Passionate about continuous learning and
+        applying the latest technologies to drive innovative solutions. */}
       </p>
 
       <a href="#contact" className="button button--flex">
