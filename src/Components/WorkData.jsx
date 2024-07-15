@@ -5,20 +5,30 @@ import Work4 from "../assets/assets/pomodoro timer.jpg";
 import Work5 from "../assets/assets/work1.jpg";
 import Work6 from "../assets/assets/image search.jpg";
 import Work7 from "../assets/assets/work3.jpg";
+import Work8 from "../assets/assets/work 8.jpg";
 
 export const projectsData = [
+  {
+    id: 8,
+    image: Work8,
+    title: "Shortest Path Finder",
+    href: "https://titiksha1206.github.io/Shortest-Path-Finder/",
+  },
+
   {
     id: 7,
     image: Work7,
     title: "Summarizer",
     href: "https://any-url-summarizer.netlify.app/",
   },
+
   {
     id: 1,
     image: Work1,
     title: "TextUtils",
     href: "https://titiksha1206.github.io/TextUtils/",
   },
+
   {
     id: 2,
     image: Work2,
