@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_Website_Js/static/css/main.adaba31c.css",
-    "main.js": "/Portfolio_Website_Js/static/js/main.e2566b0d.js",
+    "main.css": "/Portfolio_Website_Js/static/css/main.ece7ffc8.css",
+    "main.js": "/Portfolio_Website_Js/static/js/main.8abd6ecc.js",
     "static/js/787.ced97632.chunk.js": "/Portfolio_Website_Js/static/js/787.ced97632.chunk.js",
     "static/media/javascript.jpg": "/Portfolio_Website_Js/static/media/javascript.1edf10528b9ed6f192d3.jpg",
     "static/media/react.jpg": "/Portfolio_Website_Js/static/media/react.e0021bc1085741f625f7.jpg",
@@ -14,7 +14,9 @@
     "static/media/HTML.jpg": "/Portfolio_Website_Js/static/media/HTML.d2557abaa8142d3dd0fa.jpg",
     "static/media/portfolio_photo.jpg": "/Portfolio_Website_Js/static/media/portfolio_photo.129a1f642372545125df.jpg",
     "static/media/css.jpg": "/Portfolio_Website_Js/static/media/css.ce833ca2b0de59d04cab.jpg",
+    "static/media/Titiksha Gupta Resume.pdf": "/Portfolio_Website_Js/static/media/Titiksha Gupta Resume.018053ccdfd44d5069f0.pdf",
     "static/media/recipe book.jpg": "/Portfolio_Website_Js/static/media/recipe book.5c74cd2571e2e9b19759.jpg",
+    "static/media/work 8.jpg": "/Portfolio_Website_Js/static/media/work 8.fa8ce6251e65ab2246e9.jpg",
     "static/media/work2.jpg": "/Portfolio_Website_Js/static/media/work2.e52a0c2981a6c11ba468.jpg",
     "static/media/image search.jpg": "/Portfolio_Website_Js/static/media/image search.72bc0e8415f59c1ca3ea.jpg",
     "static/media/weather.jpg": "/Portfolio_Website_Js/static/media/weather.ebca3d5d3e21d4ef401a.jpg",
@@ -22,12 +24,12 @@
     "static/media/work3.jpg": "/Portfolio_Website_Js/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/pomodoro timer.jpg": "/Portfolio_Website_Js/static/media/pomodoro timer.4dcd1f5d111f00258f69.jpg",
     "index.html": "/Portfolio_Website_Js/index.html",
-    "main.adaba31c.css.map": "/Portfolio_Website_Js/static/css/main.adaba31c.css.map",
-    "main.e2566b0d.js.map": "/Portfolio_Website_Js/static/js/main.e2566b0d.js.map",
+    "main.ece7ffc8.css.map": "/Portfolio_Website_Js/static/css/main.ece7ffc8.css.map",
+    "main.8abd6ecc.js.map": "/Portfolio_Website_Js/static/js/main.8abd6ecc.js.map",
     "787.ced97632.chunk.js.map": "/Portfolio_Website_Js/static/js/787.ced97632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adaba31c.css",
-    "static/js/main.e2566b0d.js"
+    "static/css/main.ece7ffc8.css",
+    "static/js/main.8abd6ecc.js"
   ]
 }
