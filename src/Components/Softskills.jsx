@@ -11,7 +11,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Problem-Solving</h3>
+              <h3 className="skills__name">Problem-Solver</h3>
             </div>
           </div>
 
@@ -19,7 +19,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Adaptability</h3>
+              <h3 className="skills__name">Adaptable</h3>
             </div>
           </div>
 
@@ -27,7 +27,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Communication and Collaboration</h3>
+              <h3 className="skills__name">Collaborative</h3>
             </div>
           </div>
 
@@ -35,7 +35,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Creativity</h3>
+              <h3 className="skills__name">Detail-Oriented</h3>
             </div>
           </div>
 
@@ -43,7 +43,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Logical Thinking</h3>
+              <h3 className="skills__name">Innovative</h3>
             </div>
           </div>
 
@@ -51,7 +51,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Teamwork</h3>
+              <h3 className="skills__name">Strategic</h3>
             </div>
           </div>
 
@@ -59,7 +59,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Time Management</h3>
+              <h3 className="skills__name">Analytical</h3>
             </div>
           </div>
 
@@ -67,15 +67,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Attention to Detail</h3>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Organisation</h3>
+              <h3 className="skills__name">Organized</h3>
             </div>
           </div>
 
@@ -91,23 +83,7 @@ const Softskills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Learning Agility</h3>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Curiosity</h3>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Self-Motivation</h3>
+              <h3 className="skills__name">Self-Motivated</h3>
             </div>
           </div>
         </div>
