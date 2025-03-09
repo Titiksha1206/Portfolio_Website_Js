@@ -39,19 +39,11 @@ const Frontend = () => {
             </div>
           </div>
 
-          {/* <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">DBMS</h3>
-            </div>
-          </div> */}
-
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">AWS</h3>
+              <h3 className="skills__name">Tailwind CSS</h3>
             </div>
           </div>
 
@@ -91,6 +83,14 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
+              <h3 className="skills__name">REACTJS</h3>
+            </div>
+          </div>
+          
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
               <h3 className="skills__name">GIT | GITHUB</h3>
             </div>
           </div>
@@ -119,13 +119,8 @@ const Frontend = () => {
             </div>
           </div>
 
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+          
 
-            <div>
-              <h3 className="skills__name">REACTJS</h3>
-            </div>
-          </div>
         </div>
       </div>
     </div>
